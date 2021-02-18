@@ -10,8 +10,7 @@ require (
 	github.com/uplo-tech/go-upnp v0.0.0-20210214085936-eefa22b2cbe0
 	github.com/uplo-tech/log v0.0.0-20210214085954-ad76d191956e
 	github.com/uplo-tech/persist v0.0.0-20210214090107-e6d23c5bf498
-	github.com/uplo-tech/threadgroup v0.0.0-20210214090146-37c04a0e5c8b
-	golang.org/x/crypto v0.0.0-20200117160349-530e935923ad
-	golang.org/x/net v0.0.0-20190620200207-3b0461eec859
-	golang.org/x/sys v0.0.0-20200202164722-d101bd2416d5 // indirect
+	github.com/uplo-tech/threadgroup v0.0.0-20210214091324-8637ef3dcc6c
+	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad
+	golang.org/x/net v0.0.0-20210119194325-5f4716e94777
 )
